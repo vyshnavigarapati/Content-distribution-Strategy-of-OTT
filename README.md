@@ -1,5 +1,7 @@
 OTT Content Distribution Strategy Analysis
-#📌 Project Overview
+___
+ Project Overview
+__
 This project focuses on analyzing content distribution patterns in an OTT (Over-The-Top) streaming platform dataset. 
 The objective is to understand how content is distributed across different countries, genres, release years, and content types (Movies vs TV Shows).
 The analysis helps identify strategic insights that can support business decision-making in content acquisition, production planning, and regional expansion.
