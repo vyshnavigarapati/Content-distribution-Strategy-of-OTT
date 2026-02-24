@@ -9,6 +9,7 @@ The analysis helps identify strategic insights that can support business decisio
 
 ---
 #🎯 Business Problem
+--
 OTT platforms invest heavily in content production and licensing. However, content distribution must align with:
 Audience preferences
 Regional demand
@@ -25,6 +26,7 @@ Extract actionable business insights
 
 ---
 #📂 Dataset Information
+__
 The dataset contains information about OTT titles including:
 Show ID
 Type (Movie / TV Show)
@@ -53,6 +55,7 @@ Business Insight Generation
 
 ---
 #📈 Key Insights
+__
 Comparison between Movies and TV Shows
 Top content producing countries
 Growth trend of OTT content over years
@@ -62,6 +65,7 @@ Regional distribution patterns
 
 ---
 #🛠 Tools & Technologies Used
+__
 Python
 Pandas
 Matplotlib
