@@ -26,6 +26,7 @@ Extract actionable business insights
 
 ---
 📂 Dataset Information
+
 __
 The dataset contains information about OTT titles including:
 Show ID
@@ -50,6 +51,7 @@ Business Insight Generation
 
 ---
 📈 Key Insights
+
 __
 Comparison between Movies and TV Shows
 Top content producing countries
@@ -69,7 +71,7 @@ Google Colab
 GitHub
 
 ---
-#Conclusion
+Conclusion
 __
 The analysis provides insights into how OTT platforms distribute content globally. These insights can support strategic decisions related to content acquisition, expansion into new markets, and audience targeting.
 
